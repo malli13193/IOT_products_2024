@@ -1,4 +1,4 @@
-### Water Purifier Design (Mineral and Saltwater Separation):
+### Water Purifier Design (Mineral and Saltwater Separation): [Water Purifier Design](https://github.com/malli13193/Water-Purifier-Design)
 
 **Concept**: A water purifier system that separates mineral-rich water and saltwater, allowing users to consume them independently.
 
